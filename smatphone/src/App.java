@@ -8,7 +8,7 @@ public class App {
         quinze.atualizarPagina();
         quinze.atender();
         quinze.iniciarCorreioVoz();
-        quinze.selecionarMusica("musica");
+        quinze.selecionarMusica(": musica");
         quinze.tocar();
         quinze.pausar();
         
