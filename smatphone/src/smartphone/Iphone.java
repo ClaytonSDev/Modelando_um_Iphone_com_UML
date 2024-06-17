@@ -1,6 +1,6 @@
 package smartphone;
 
-public class Iphone implements AparelhoMusica, AparelhoTelefonico, NavegadorWeb {
+public class Iphone implements AparelhoMusical, AparelhoTelefonico, NavegadorWeb {
     @Override
     public void exibirPagina(String url) {
         System.out.println("URL = " + url);
